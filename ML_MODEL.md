@@ -11,7 +11,7 @@
 ### Checking The customer's eligibility for  a p2p loan
  
 ## ML model selected:
-### Random Forest Model
+### Keras Neural Network
  
 ## Reason:
 ### **We decided to use the Random Forest Model because we have a large dataset to be able to select a decision based on many decision trees.**
