@@ -1,5 +1,5 @@
 # Machine Learning in FinTech:
-## With your group suggest and research one Use case in Fintech, locate some data in this space, explore it a bit, and choose a model you'd like to work with.
+### With your group suggest and research one Use case in Fintech, locate some data in this space, explore it a bit, and choose a model you'd like to work with.
 # Area of FinTech:
 ### Lending and credit decisions
  
@@ -18,12 +18,12 @@
 # Group 1:
  **TITANS** 
 # Group Members:
- **Asma Harthi**\
- **Amal Alqahtani**\
- **Dhamya Alhemely**\
- **Haneen Abuallam**\
- **Khalid Alomari**\
- **Zainab Alharbi**\
+ **1. Asma Harthi**\
+ **2. Amal Alqahtani**\
+ **3. Dhamya Alhemely**\
+ **4. Haneen Abuallam**\
+ **5. Khalid Alomari**\
+ **6. Zainab Alharbi**\
  
  
 
