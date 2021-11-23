@@ -14,9 +14,9 @@
 ### Random Forest Model
  
 ## Reason:
-**We decided to use the Random Forest Model because we have a large dataset to be able to select a decision based on many decision trees.**
+### **We decided to use the Random Forest Model because we have a large dataset to be able to select a decision based on many decision trees.**
 ## Group 1:
- **TITANS** 
+### **TITANS** 
 ## Group Members:
  **1. Asma Harthi**\
  **2. Amal Alqahtani**\
