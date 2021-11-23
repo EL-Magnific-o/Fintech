@@ -7,7 +7,7 @@
 ## https://www.kaggle.com/sid321axn/bondora-peer-to-peer-lending-loan-data?select=LoanData_Bondora.csv
  
 # ML Use Case:
-## What are you trying to accomplish?
+
 **Checking The customer's eligibility for  a p2p loan**
  
 # ML model selected:
