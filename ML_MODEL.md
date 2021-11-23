@@ -8,7 +8,7 @@
  
 # ML Use Case:
 
-**Checking The customer's eligibility for  a p2p loan**
+## **Checking The customer's eligibility for  a p2p loan**
  
 # ML model selected:
 **Random Forest Model**
