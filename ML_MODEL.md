@@ -18,12 +18,12 @@
 # Group 1:
  **TITANS** 
 # Group Members:
- **1. Asma Harthi**
- **2. Amal Alqahtani**
- **3. Dhamya Alhemely**
- **4. Haneen Abuallam**
- **5. Khalid Alomari**
- **6. Zainab Alharbi**
+ **Asma Harthi**
+ **Amal Alqahtani**
+ **Dhamya Alhemely**
+ **Haneen Abuallam**
+ **Khalid Alomari**
+ **Zainab Alharbi**
  
  
 
